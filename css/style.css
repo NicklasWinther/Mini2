@@ -21,4 +21,18 @@ footer {
 footer p {
   font-size: 0.9rem;
 }
+
+.mapouter {
+  position: relative;
+  text-align: right;
+  height: 500px;
+  width: 600px;
+}
+
+.mapouter .gmap_canvas {
+  overflow: hidden;
+  background: none !important;
+  height: 100%;
+  width: 100%;
+}
 /*# sourceMappingURL=style.css.map */
