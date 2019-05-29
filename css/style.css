@@ -2,4 +2,23 @@
   background-image: url(../img/navigation_background.png);
   height: 150px;
 }
+
+body {
+  background: #f1f1f1;
+}
+
+main {
+  background-image: url(../img/main_background.png);
+}
+
+footer {
+  border: 5px solid transparent;
+  -o-border-image: url(../img/footer_background.png) 10;
+     border-image: url(../img/footer_background.png) 10;
+  height: 100px;
+}
+
+footer p {
+  font-size: 0.9rem;
+}
 /*# sourceMappingURL=style.css.map */
