@@ -1,3 +1,7 @@
+main {
+  background-image: url(../img/main_background.png);
+}
+
 footer {
   background: #f1f1f1;
   border: 5px solid transparent;
